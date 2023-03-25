@@ -1,0 +1,2 @@
+# madz
+Social media platform
